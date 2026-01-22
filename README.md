@@ -1,5 +1,11 @@
 # Student Result Management System (SRMS)
 
+
+NAME: TOLUWANIMI AKINYEMI OLUWAFUMBI 
+
+MATRIC NUMBER: 24/15284
+
+URL: https://github.com/Toluwanimi-001/Student-Result-Management-System-SRMS-/blob/main/README.md
 This project is a Python-based application that automates the computation
 and management of student academic results.
 
